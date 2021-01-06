@@ -1,0 +1,1220 @@
+Number of transactions: 6626
+ItemID ranges from 1 to 81
+
+******** MinSupport  20.0%, MinConf 30.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 679
+Frequent itemsets: 74
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 282
+Frequent itemsets: 74
+
+Closed Frequent Itemsets: 74
+Maximal Frequent Itemsets: 36
+
+Number of Association Rules By Confidence (30.0%): 186
+
+Top 30 association rules by Confidence:
+[Session Fall 2015]=>[Program CS], 86.22273249138921
+[AWA 2.4]=>[Origin International], 82.89550496205487
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 81.86650915534554
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Origin International, Degree MS]=>[Program CS], 81.42857142857143
+[Origin International, Decision Rejected]=>[Program CS], 81.01386896221904
+[Decision Rejected, 3.6<cgpa<4.0]=>[Program CS], 80.98341232227489
+[Degree MS]=>[Program CS], 80.80903104421449
+[Degree PhD, Decision Rejected]=>[Program CS], 80.21778584392014
+[3.2<cgpa<3.6]=>[Program CS], 80.13520540821632
+[AWA 3.6]=>[Program CS], 79.7032640949555
+[Degree MS, Decision Accepted]=>[Program CS], 78.76857749469215
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Origin International, University Ranking Tier 16]=>[Program CS], 75.7750221434898
+[Origin International, 90%<quant<100%]=>[Program CS], 75.262494750105
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Program CS], 75.20989836500222
+[Origin International, Decision Accepted]=>[Program CS], 74.82195224130707
+[Origin International, 3.6<cgpa<4.0]=>[Program CS], 74.7758761206194
+[3.2<cgpa<3.6]=>[Origin International], 74.57098283931357
+[3.6<cgpa<4.0, Decision Accepted]=>[Program CS], 74.23773751657092
+[University Ranking Tier 16, 3.6<cgpa<4.0]=>[Program CS], 74.20172326406488
+[Degree PhD, 90%<quant<100%]=>[Program CS], 73.89060887512899
+[Origin International, Degree PhD]=>[Program CS], 73.81835032437442
+[Degree PhD, 3.6<cgpa<4.0]=>[Program CS], 73.63272565584704
+[90%<quant<100%, Decision Accepted]=>[Program CS], 73.34689725330621
+
+Number of Association Rules By lift (1.0) : 100
+
+Top 60 association rules By Lift:
+[Origin International]=>[AWA 2.4], 122.65869045970872
+[AWA 2.4]=>[Origin International], 122.6586904597087
+[Degree PhD, 90%<quant<100%]=>[3.6<cgpa<4.0], 117.51421372076251
+[3.6<cgpa<4.0]=>[Degree PhD, 90%<quant<100%], 117.51421372076251
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Degree PhD], 116.19478650916983
+[Degree PhD]=>[90%<quant<100%, 3.6<cgpa<4.0], 116.19478650916982
+[Degree PhD, 3.6<cgpa<4.0]=>[90%<quant<100%], 113.88947638682316
+[90%<quant<100%]=>[Degree PhD, 3.6<cgpa<4.0], 113.88947638682313
+[Degree PhD, Program CS]=>[Decision Rejected], 113.0436237051432
+[Decision Rejected]=>[Degree PhD, Program CS], 113.0436237051432
+[Origin International, Program CS]=>[Degree MS], 112.30690628345282
+[Degree MS]=>[Origin International, Program CS], 112.30690628345279
+[Program CS, Decision Accepted]=>[Degree MS], 110.5163695543934
+[Degree MS]=>[Program CS, Decision Accepted], 110.51636955439339
+[3.2<cgpa<3.6]=>[Origin International], 110.34107465236526
+[Origin International]=>[3.2<cgpa<3.6], 110.34107465236526
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[Session Fall 2015]=>[Program CS], 109.61470174365789
+[Program CS]=>[Session Fall 2015], 109.61470174365789
+[Origin International, Program CS]=>[Decision Rejected], 108.89314458233407
+[Decision Rejected]=>[Origin International, Program CS], 108.89314458233407
+[90%<quant<100%]=>[Origin International, 3.6<cgpa<4.0], 108.75648511025877
+[Origin International, 3.6<cgpa<4.0]=>[90%<quant<100%], 108.75648511025877
+[Degree PhD]=>[Decision Rejected], 108.05857242586892
+[Decision Rejected]=>[Degree PhD], 108.05857242586892
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Degree MS, Program CS]=>[Origin International], 108.00446731946793
+[Origin International]=>[Degree MS, Program CS], 108.00446731946793
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Accepted]=>[Degree MS], 106.83716268121451
+[Degree MS]=>[Decision Accepted], 106.83716268121448
+[90%<quant<100%]=>[Degree PhD], 106.81864122289042
+[Degree PhD]=>[90%<quant<100%], 106.81864122289042
+[3.6<cgpa<4.0]=>[90%<quant<100%, Program CS], 106.38570720925071
+[90%<quant<100%, Program CS]=>[3.6<cgpa<4.0], 106.3857072092507
+[Degree PhD]=>[Decision Rejected, Program CS], 106.00852983632888
+[Decision Rejected, Program CS]=>[Degree PhD], 106.00852983632888
+[3.6<cgpa<4.0]=>[Degree PhD, Program CS], 105.83782432357354
+[Degree PhD, Program CS]=>[3.6<cgpa<4.0], 105.83782432357354
+[3.6<cgpa<4.0, Program CS]=>[90%<quant<100%], 105.3562691941442
+[90%<quant<100%]=>[3.6<cgpa<4.0, Program CS], 105.35626919414418
+[3.6<cgpa<4.0, Program CS]=>[Degree PhD], 105.23478171801719
+[Degree PhD]=>[3.6<cgpa<4.0, Program CS], 105.23478171801719
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Degree MS, Program CS]=>[Decision Accepted], 104.1394905894095
+[Decision Accepted]=>[Degree MS, Program CS], 104.1394905894095
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 104.07664805512655
+[Program CS]=>[Degree MS, 3.6<cgpa<4.0], 104.07664805512653
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Origin International, Degree MS]=>[Program CS], 103.5198991338669
+[Program CS]=>[Origin International, Degree MS], 103.5198991338669
+[Decision Rejected, Program CS]=>[Origin International], 103.49195940590737
+[Origin International]=>[Decision Rejected, Program CS], 103.49195940590737
+
+******** MinSupport  20.0%, MinConf 40.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 679
+Frequent itemsets: 74
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 282
+Frequent itemsets: 74
+
+Closed Frequent Itemsets: 74
+Maximal Frequent Itemsets: 36
+
+Number of Association Rules By Confidence (40.0%): 157
+
+Top 30 association rules by Confidence:
+[Session Fall 2015]=>[Program CS], 86.22273249138921
+[AWA 2.4]=>[Origin International], 82.89550496205487
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 81.86650915534554
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Origin International, Degree MS]=>[Program CS], 81.42857142857143
+[Origin International, Decision Rejected]=>[Program CS], 81.01386896221904
+[Decision Rejected, 3.6<cgpa<4.0]=>[Program CS], 80.98341232227489
+[Degree MS]=>[Program CS], 80.80903104421449
+[Degree PhD, Decision Rejected]=>[Program CS], 80.21778584392014
+[3.2<cgpa<3.6]=>[Program CS], 80.13520540821632
+[AWA 3.6]=>[Program CS], 79.7032640949555
+[Degree MS, Decision Accepted]=>[Program CS], 78.76857749469215
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Origin International, University Ranking Tier 16]=>[Program CS], 75.7750221434898
+[Origin International, 90%<quant<100%]=>[Program CS], 75.262494750105
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Program CS], 75.20989836500222
+[Origin International, Decision Accepted]=>[Program CS], 74.82195224130707
+[Origin International, 3.6<cgpa<4.0]=>[Program CS], 74.7758761206194
+[3.2<cgpa<3.6]=>[Origin International], 74.57098283931357
+[3.6<cgpa<4.0, Decision Accepted]=>[Program CS], 74.23773751657092
+[University Ranking Tier 16, 3.6<cgpa<4.0]=>[Program CS], 74.20172326406488
+[Degree PhD, 90%<quant<100%]=>[Program CS], 73.89060887512899
+[Origin International, Degree PhD]=>[Program CS], 73.81835032437442
+[Degree PhD, 3.6<cgpa<4.0]=>[Program CS], 73.63272565584704
+[90%<quant<100%, Decision Accepted]=>[Program CS], 73.34689725330621
+
+Number of Association Rules By lift (1.0) : 100
+
+Top 60 association rules By Lift:
+[Origin International]=>[AWA 2.4], 122.65869045970872
+[AWA 2.4]=>[Origin International], 122.6586904597087
+[Degree PhD, 90%<quant<100%]=>[3.6<cgpa<4.0], 117.51421372076251
+[3.6<cgpa<4.0]=>[Degree PhD, 90%<quant<100%], 117.51421372076251
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Degree PhD], 116.19478650916983
+[Degree PhD]=>[90%<quant<100%, 3.6<cgpa<4.0], 116.19478650916982
+[Degree PhD, 3.6<cgpa<4.0]=>[90%<quant<100%], 113.88947638682316
+[90%<quant<100%]=>[Degree PhD, 3.6<cgpa<4.0], 113.88947638682313
+[Degree PhD, Program CS]=>[Decision Rejected], 113.0436237051432
+[Decision Rejected]=>[Degree PhD, Program CS], 113.0436237051432
+[Origin International, Program CS]=>[Degree MS], 112.30690628345282
+[Degree MS]=>[Origin International, Program CS], 112.30690628345279
+[Program CS, Decision Accepted]=>[Degree MS], 110.5163695543934
+[Degree MS]=>[Program CS, Decision Accepted], 110.51636955439339
+[3.2<cgpa<3.6]=>[Origin International], 110.34107465236526
+[Origin International]=>[3.2<cgpa<3.6], 110.34107465236526
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[Session Fall 2015]=>[Program CS], 109.61470174365789
+[Program CS]=>[Session Fall 2015], 109.61470174365789
+[Origin International, Program CS]=>[Decision Rejected], 108.89314458233407
+[Decision Rejected]=>[Origin International, Program CS], 108.89314458233407
+[90%<quant<100%]=>[Origin International, 3.6<cgpa<4.0], 108.75648511025877
+[Origin International, 3.6<cgpa<4.0]=>[90%<quant<100%], 108.75648511025877
+[Degree PhD]=>[Decision Rejected], 108.05857242586892
+[Decision Rejected]=>[Degree PhD], 108.05857242586892
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Degree MS, Program CS]=>[Origin International], 108.00446731946793
+[Origin International]=>[Degree MS, Program CS], 108.00446731946793
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Accepted]=>[Degree MS], 106.83716268121451
+[Degree MS]=>[Decision Accepted], 106.83716268121448
+[90%<quant<100%]=>[Degree PhD], 106.81864122289042
+[Degree PhD]=>[90%<quant<100%], 106.81864122289042
+[3.6<cgpa<4.0]=>[90%<quant<100%, Program CS], 106.38570720925071
+[90%<quant<100%, Program CS]=>[3.6<cgpa<4.0], 106.3857072092507
+[Degree PhD]=>[Decision Rejected, Program CS], 106.00852983632888
+[Decision Rejected, Program CS]=>[Degree PhD], 106.00852983632888
+[3.6<cgpa<4.0]=>[Degree PhD, Program CS], 105.83782432357354
+[Degree PhD, Program CS]=>[3.6<cgpa<4.0], 105.83782432357354
+[3.6<cgpa<4.0, Program CS]=>[90%<quant<100%], 105.3562691941442
+[90%<quant<100%]=>[3.6<cgpa<4.0, Program CS], 105.35626919414418
+[3.6<cgpa<4.0, Program CS]=>[Degree PhD], 105.23478171801719
+[Degree PhD]=>[3.6<cgpa<4.0, Program CS], 105.23478171801719
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Degree MS, Program CS]=>[Decision Accepted], 104.1394905894095
+[Decision Accepted]=>[Degree MS, Program CS], 104.1394905894095
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 104.07664805512655
+[Program CS]=>[Degree MS, 3.6<cgpa<4.0], 104.07664805512653
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Origin International, Degree MS]=>[Program CS], 103.5198991338669
+[Program CS]=>[Origin International, Degree MS], 103.5198991338669
+[Decision Rejected, Program CS]=>[Origin International], 103.49195940590737
+[Origin International]=>[Decision Rejected, Program CS], 103.49195940590737
+
+******** MinSupport  20.0%, MinConf 50.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 679
+Frequent itemsets: 74
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 282
+Frequent itemsets: 74
+
+Closed Frequent Itemsets: 74
+Maximal Frequent Itemsets: 36
+
+Number of Association Rules By Confidence (50.0%): 112
+
+Top 30 association rules by Confidence:
+[Session Fall 2015]=>[Program CS], 86.22273249138921
+[AWA 2.4]=>[Origin International], 82.89550496205487
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 81.86650915534554
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Origin International, Degree MS]=>[Program CS], 81.42857142857143
+[Origin International, Decision Rejected]=>[Program CS], 81.01386896221904
+[Decision Rejected, 3.6<cgpa<4.0]=>[Program CS], 80.98341232227489
+[Degree MS]=>[Program CS], 80.80903104421449
+[Degree PhD, Decision Rejected]=>[Program CS], 80.21778584392014
+[3.2<cgpa<3.6]=>[Program CS], 80.13520540821632
+[AWA 3.6]=>[Program CS], 79.7032640949555
+[Degree MS, Decision Accepted]=>[Program CS], 78.76857749469215
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Origin International, University Ranking Tier 16]=>[Program CS], 75.7750221434898
+[Origin International, 90%<quant<100%]=>[Program CS], 75.262494750105
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Program CS], 75.20989836500222
+[Origin International, Decision Accepted]=>[Program CS], 74.82195224130707
+[Origin International, 3.6<cgpa<4.0]=>[Program CS], 74.7758761206194
+[3.2<cgpa<3.6]=>[Origin International], 74.57098283931357
+[3.6<cgpa<4.0, Decision Accepted]=>[Program CS], 74.23773751657092
+[University Ranking Tier 16, 3.6<cgpa<4.0]=>[Program CS], 74.20172326406488
+[Degree PhD, 90%<quant<100%]=>[Program CS], 73.89060887512899
+[Origin International, Degree PhD]=>[Program CS], 73.81835032437442
+[Degree PhD, 3.6<cgpa<4.0]=>[Program CS], 73.63272565584704
+[90%<quant<100%, Decision Accepted]=>[Program CS], 73.34689725330621
+
+Number of Association Rules By lift (1.0) : 100
+
+Top 60 association rules By Lift:
+[Origin International]=>[AWA 2.4], 122.65869045970872
+[AWA 2.4]=>[Origin International], 122.6586904597087
+[Degree PhD, 90%<quant<100%]=>[3.6<cgpa<4.0], 117.51421372076251
+[3.6<cgpa<4.0]=>[Degree PhD, 90%<quant<100%], 117.51421372076251
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Degree PhD], 116.19478650916983
+[Degree PhD]=>[90%<quant<100%, 3.6<cgpa<4.0], 116.19478650916982
+[Degree PhD, 3.6<cgpa<4.0]=>[90%<quant<100%], 113.88947638682316
+[90%<quant<100%]=>[Degree PhD, 3.6<cgpa<4.0], 113.88947638682313
+[Degree PhD, Program CS]=>[Decision Rejected], 113.0436237051432
+[Decision Rejected]=>[Degree PhD, Program CS], 113.0436237051432
+[Origin International, Program CS]=>[Degree MS], 112.30690628345282
+[Degree MS]=>[Origin International, Program CS], 112.30690628345279
+[Program CS, Decision Accepted]=>[Degree MS], 110.5163695543934
+[Degree MS]=>[Program CS, Decision Accepted], 110.51636955439339
+[3.2<cgpa<3.6]=>[Origin International], 110.34107465236526
+[Origin International]=>[3.2<cgpa<3.6], 110.34107465236526
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[Session Fall 2015]=>[Program CS], 109.61470174365789
+[Program CS]=>[Session Fall 2015], 109.61470174365789
+[Origin International, Program CS]=>[Decision Rejected], 108.89314458233407
+[Decision Rejected]=>[Origin International, Program CS], 108.89314458233407
+[90%<quant<100%]=>[Origin International, 3.6<cgpa<4.0], 108.75648511025877
+[Origin International, 3.6<cgpa<4.0]=>[90%<quant<100%], 108.75648511025877
+[Degree PhD]=>[Decision Rejected], 108.05857242586892
+[Decision Rejected]=>[Degree PhD], 108.05857242586892
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Degree MS, Program CS]=>[Origin International], 108.00446731946793
+[Origin International]=>[Degree MS, Program CS], 108.00446731946793
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Accepted]=>[Degree MS], 106.83716268121451
+[Degree MS]=>[Decision Accepted], 106.83716268121448
+[90%<quant<100%]=>[Degree PhD], 106.81864122289042
+[Degree PhD]=>[90%<quant<100%], 106.81864122289042
+[3.6<cgpa<4.0]=>[90%<quant<100%, Program CS], 106.38570720925071
+[90%<quant<100%, Program CS]=>[3.6<cgpa<4.0], 106.3857072092507
+[Degree PhD]=>[Decision Rejected, Program CS], 106.00852983632888
+[Decision Rejected, Program CS]=>[Degree PhD], 106.00852983632888
+[3.6<cgpa<4.0]=>[Degree PhD, Program CS], 105.83782432357354
+[Degree PhD, Program CS]=>[3.6<cgpa<4.0], 105.83782432357354
+[3.6<cgpa<4.0, Program CS]=>[90%<quant<100%], 105.3562691941442
+[90%<quant<100%]=>[3.6<cgpa<4.0, Program CS], 105.35626919414418
+[3.6<cgpa<4.0, Program CS]=>[Degree PhD], 105.23478171801719
+[Degree PhD]=>[3.6<cgpa<4.0, Program CS], 105.23478171801719
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Degree MS, Program CS]=>[Decision Accepted], 104.1394905894095
+[Decision Accepted]=>[Degree MS, Program CS], 104.1394905894095
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 104.07664805512655
+[Program CS]=>[Degree MS, 3.6<cgpa<4.0], 104.07664805512653
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Origin International, Degree MS]=>[Program CS], 103.5198991338669
+[Program CS]=>[Origin International, Degree MS], 103.5198991338669
+[Decision Rejected, Program CS]=>[Origin International], 103.49195940590737
+[Origin International]=>[Decision Rejected, Program CS], 103.49195940590737
+
+******** MinSupport  20.0%, MinConf 60.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 679
+Frequent itemsets: 74
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 282
+Frequent itemsets: 74
+
+Closed Frequent Itemsets: 74
+Maximal Frequent Itemsets: 36
+
+Number of Association Rules By Confidence (60.0%): 57
+
+Top 30 association rules by Confidence:
+[Session Fall 2015]=>[Program CS], 86.22273249138921
+[AWA 2.4]=>[Origin International], 82.89550496205487
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 81.86650915534554
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Origin International, Degree MS]=>[Program CS], 81.42857142857143
+[Origin International, Decision Rejected]=>[Program CS], 81.01386896221904
+[Decision Rejected, 3.6<cgpa<4.0]=>[Program CS], 80.98341232227489
+[Degree MS]=>[Program CS], 80.80903104421449
+[Degree PhD, Decision Rejected]=>[Program CS], 80.21778584392014
+[3.2<cgpa<3.6]=>[Program CS], 80.13520540821632
+[AWA 3.6]=>[Program CS], 79.7032640949555
+[Degree MS, Decision Accepted]=>[Program CS], 78.76857749469215
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Origin International, University Ranking Tier 16]=>[Program CS], 75.7750221434898
+[Origin International, 90%<quant<100%]=>[Program CS], 75.262494750105
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Program CS], 75.20989836500222
+[Origin International, Decision Accepted]=>[Program CS], 74.82195224130707
+[Origin International, 3.6<cgpa<4.0]=>[Program CS], 74.7758761206194
+[3.2<cgpa<3.6]=>[Origin International], 74.57098283931357
+[3.6<cgpa<4.0, Decision Accepted]=>[Program CS], 74.23773751657092
+[University Ranking Tier 16, 3.6<cgpa<4.0]=>[Program CS], 74.20172326406488
+[Degree PhD, 90%<quant<100%]=>[Program CS], 73.89060887512899
+[Origin International, Degree PhD]=>[Program CS], 73.81835032437442
+[Degree PhD, 3.6<cgpa<4.0]=>[Program CS], 73.63272565584704
+[90%<quant<100%, Decision Accepted]=>[Program CS], 73.34689725330621
+
+Number of Association Rules By lift (1.0) : 100
+
+Top 60 association rules By Lift:
+[Origin International]=>[AWA 2.4], 122.65869045970872
+[AWA 2.4]=>[Origin International], 122.6586904597087
+[Degree PhD, 90%<quant<100%]=>[3.6<cgpa<4.0], 117.51421372076251
+[3.6<cgpa<4.0]=>[Degree PhD, 90%<quant<100%], 117.51421372076251
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Degree PhD], 116.19478650916983
+[Degree PhD]=>[90%<quant<100%, 3.6<cgpa<4.0], 116.19478650916982
+[Degree PhD, 3.6<cgpa<4.0]=>[90%<quant<100%], 113.88947638682316
+[90%<quant<100%]=>[Degree PhD, 3.6<cgpa<4.0], 113.88947638682313
+[Degree PhD, Program CS]=>[Decision Rejected], 113.0436237051432
+[Decision Rejected]=>[Degree PhD, Program CS], 113.0436237051432
+[Origin International, Program CS]=>[Degree MS], 112.30690628345282
+[Degree MS]=>[Origin International, Program CS], 112.30690628345279
+[Program CS, Decision Accepted]=>[Degree MS], 110.5163695543934
+[Degree MS]=>[Program CS, Decision Accepted], 110.51636955439339
+[3.2<cgpa<3.6]=>[Origin International], 110.34107465236526
+[Origin International]=>[3.2<cgpa<3.6], 110.34107465236526
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[Session Fall 2015]=>[Program CS], 109.61470174365789
+[Program CS]=>[Session Fall 2015], 109.61470174365789
+[Origin International, Program CS]=>[Decision Rejected], 108.89314458233407
+[Decision Rejected]=>[Origin International, Program CS], 108.89314458233407
+[90%<quant<100%]=>[Origin International, 3.6<cgpa<4.0], 108.75648511025877
+[Origin International, 3.6<cgpa<4.0]=>[90%<quant<100%], 108.75648511025877
+[Degree PhD]=>[Decision Rejected], 108.05857242586892
+[Decision Rejected]=>[Degree PhD], 108.05857242586892
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Degree MS, Program CS]=>[Origin International], 108.00446731946793
+[Origin International]=>[Degree MS, Program CS], 108.00446731946793
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Accepted]=>[Degree MS], 106.83716268121451
+[Degree MS]=>[Decision Accepted], 106.83716268121448
+[90%<quant<100%]=>[Degree PhD], 106.81864122289042
+[Degree PhD]=>[90%<quant<100%], 106.81864122289042
+[3.6<cgpa<4.0]=>[90%<quant<100%, Program CS], 106.38570720925071
+[90%<quant<100%, Program CS]=>[3.6<cgpa<4.0], 106.3857072092507
+[Degree PhD]=>[Decision Rejected, Program CS], 106.00852983632888
+[Decision Rejected, Program CS]=>[Degree PhD], 106.00852983632888
+[3.6<cgpa<4.0]=>[Degree PhD, Program CS], 105.83782432357354
+[Degree PhD, Program CS]=>[3.6<cgpa<4.0], 105.83782432357354
+[3.6<cgpa<4.0, Program CS]=>[90%<quant<100%], 105.3562691941442
+[90%<quant<100%]=>[3.6<cgpa<4.0, Program CS], 105.35626919414418
+[3.6<cgpa<4.0, Program CS]=>[Degree PhD], 105.23478171801719
+[Degree PhD]=>[3.6<cgpa<4.0, Program CS], 105.23478171801719
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Degree MS, Program CS]=>[Decision Accepted], 104.1394905894095
+[Decision Accepted]=>[Degree MS, Program CS], 104.1394905894095
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 104.07664805512655
+[Program CS]=>[Degree MS, 3.6<cgpa<4.0], 104.07664805512653
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Origin International, Degree MS]=>[Program CS], 103.5198991338669
+[Program CS]=>[Origin International, Degree MS], 103.5198991338669
+[Decision Rejected, Program CS]=>[Origin International], 103.49195940590737
+[Origin International]=>[Decision Rejected, Program CS], 103.49195940590737
+
+******** MinSupport  20.0%, MinConf 70.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 679
+Frequent itemsets: 74
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 282
+Frequent itemsets: 74
+
+Closed Frequent Itemsets: 74
+Maximal Frequent Itemsets: 36
+
+Number of Association Rules By Confidence (70.0%): 34
+
+Top 30 association rules by Confidence:
+[Session Fall 2015]=>[Program CS], 86.22273249138921
+[AWA 2.4]=>[Origin International], 82.89550496205487
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 81.86650915534554
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Origin International, Degree MS]=>[Program CS], 81.42857142857143
+[Origin International, Decision Rejected]=>[Program CS], 81.01386896221904
+[Decision Rejected, 3.6<cgpa<4.0]=>[Program CS], 80.98341232227489
+[Degree MS]=>[Program CS], 80.80903104421449
+[Degree PhD, Decision Rejected]=>[Program CS], 80.21778584392014
+[3.2<cgpa<3.6]=>[Program CS], 80.13520540821632
+[AWA 3.6]=>[Program CS], 79.7032640949555
+[Degree MS, Decision Accepted]=>[Program CS], 78.76857749469215
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Origin International, University Ranking Tier 16]=>[Program CS], 75.7750221434898
+[Origin International, 90%<quant<100%]=>[Program CS], 75.262494750105
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Program CS], 75.20989836500222
+[Origin International, Decision Accepted]=>[Program CS], 74.82195224130707
+[Origin International, 3.6<cgpa<4.0]=>[Program CS], 74.7758761206194
+[3.2<cgpa<3.6]=>[Origin International], 74.57098283931357
+[3.6<cgpa<4.0, Decision Accepted]=>[Program CS], 74.23773751657092
+[University Ranking Tier 16, 3.6<cgpa<4.0]=>[Program CS], 74.20172326406488
+[Degree PhD, 90%<quant<100%]=>[Program CS], 73.89060887512899
+[Origin International, Degree PhD]=>[Program CS], 73.81835032437442
+[Degree PhD, 3.6<cgpa<4.0]=>[Program CS], 73.63272565584704
+[90%<quant<100%, Decision Accepted]=>[Program CS], 73.34689725330621
+
+Number of Association Rules By lift (1.0) : 100
+
+Top 60 association rules By Lift:
+[Origin International]=>[AWA 2.4], 122.65869045970872
+[AWA 2.4]=>[Origin International], 122.6586904597087
+[Degree PhD, 90%<quant<100%]=>[3.6<cgpa<4.0], 117.51421372076251
+[3.6<cgpa<4.0]=>[Degree PhD, 90%<quant<100%], 117.51421372076251
+[90%<quant<100%, 3.6<cgpa<4.0]=>[Degree PhD], 116.19478650916983
+[Degree PhD]=>[90%<quant<100%, 3.6<cgpa<4.0], 116.19478650916982
+[Degree PhD, 3.6<cgpa<4.0]=>[90%<quant<100%], 113.88947638682316
+[90%<quant<100%]=>[Degree PhD, 3.6<cgpa<4.0], 113.88947638682313
+[Degree PhD, Program CS]=>[Decision Rejected], 113.0436237051432
+[Decision Rejected]=>[Degree PhD, Program CS], 113.0436237051432
+[Origin International, Program CS]=>[Degree MS], 112.30690628345282
+[Degree MS]=>[Origin International, Program CS], 112.30690628345279
+[Program CS, Decision Accepted]=>[Degree MS], 110.5163695543934
+[Degree MS]=>[Program CS, Decision Accepted], 110.51636955439339
+[3.2<cgpa<3.6]=>[Origin International], 110.34107465236526
+[Origin International]=>[3.2<cgpa<3.6], 110.34107465236526
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[Session Fall 2015]=>[Program CS], 109.61470174365789
+[Program CS]=>[Session Fall 2015], 109.61470174365789
+[Origin International, Program CS]=>[Decision Rejected], 108.89314458233407
+[Decision Rejected]=>[Origin International, Program CS], 108.89314458233407
+[90%<quant<100%]=>[Origin International, 3.6<cgpa<4.0], 108.75648511025877
+[Origin International, 3.6<cgpa<4.0]=>[90%<quant<100%], 108.75648511025877
+[Degree PhD]=>[Decision Rejected], 108.05857242586892
+[Decision Rejected]=>[Degree PhD], 108.05857242586892
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Degree MS, Program CS]=>[Origin International], 108.00446731946793
+[Origin International]=>[Degree MS, Program CS], 108.00446731946793
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Accepted]=>[Degree MS], 106.83716268121451
+[Degree MS]=>[Decision Accepted], 106.83716268121448
+[90%<quant<100%]=>[Degree PhD], 106.81864122289042
+[Degree PhD]=>[90%<quant<100%], 106.81864122289042
+[3.6<cgpa<4.0]=>[90%<quant<100%, Program CS], 106.38570720925071
+[90%<quant<100%, Program CS]=>[3.6<cgpa<4.0], 106.3857072092507
+[Degree PhD]=>[Decision Rejected, Program CS], 106.00852983632888
+[Decision Rejected, Program CS]=>[Degree PhD], 106.00852983632888
+[3.6<cgpa<4.0]=>[Degree PhD, Program CS], 105.83782432357354
+[Degree PhD, Program CS]=>[3.6<cgpa<4.0], 105.83782432357354
+[3.6<cgpa<4.0, Program CS]=>[90%<quant<100%], 105.3562691941442
+[90%<quant<100%]=>[3.6<cgpa<4.0, Program CS], 105.35626919414418
+[3.6<cgpa<4.0, Program CS]=>[Degree PhD], 105.23478171801719
+[Degree PhD]=>[3.6<cgpa<4.0, Program CS], 105.23478171801719
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Degree MS, Program CS]=>[Decision Accepted], 104.1394905894095
+[Decision Accepted]=>[Degree MS, Program CS], 104.1394905894095
+[Degree MS, 3.6<cgpa<4.0]=>[Program CS], 104.07664805512655
+[Program CS]=>[Degree MS, 3.6<cgpa<4.0], 104.07664805512653
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Origin International, Degree MS]=>[Program CS], 103.5198991338669
+[Program CS]=>[Origin International, Degree MS], 103.5198991338669
+[Decision Rejected, Program CS]=>[Origin International], 103.49195940590737
+[Origin International]=>[Decision Rejected, Program CS], 103.49195940590737
+
+**********************************************************************************************
+**********************************************************************************************
+
+******** MinSupport  30.000000000000004%, MinConf 30.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 106
+Frequent itemsets: 27
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 88
+Frequent itemsets: 27
+
+Closed Frequent Itemsets: 27
+Maximal Frequent Itemsets: 18
+
+Number of Association Rules By Confidence (30.0%): 36
+
+Top 30 association rules by Confidence:
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Degree MS]=>[Program CS], 80.80903104421449
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Degree MS]=>[Origin International], 72.43650047036688
+[Decision Rejected]=>[Origin International], 70.59419311276164
+[University Ranking Tier 16]=>[Origin International], 69.00977995110024
+[90%<quant<100%]=>[Origin International], 67.77682892115001
+[Program CS]=>[Origin International], 66.76899462778204
+[Degree PhD]=>[3.6<cgpa<4.0], 65.7218001168907
+[Decision Accepted]=>[Origin International], 65.14737991266377
+[90%<quant<100%]=>[3.6<cgpa<4.0], 64.41787645886706
+[Degree PhD]=>[Origin International], 63.062536528345994
+[3.6<cgpa<4.0]=>[Origin International], 62.110858010630224
+[Decision Accepted]=>[3.6<cgpa<4.0], 61.76310043668122
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[3.6<cgpa<4.0]=>[90%<quant<100%], 57.276638825613766
+[3.6<cgpa<4.0]=>[Decision Accepted], 57.276638825613766
+[3.6<cgpa<4.0]=>[Degree PhD], 56.922298152366494
+[Origin International]=>[3.6<cgpa<4.0], 54.801250558284956
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Origin International]=>[Decision Accepted], 53.30504689593568
+[Origin International]=>[90%<quant<100%], 53.17105850826261
+[Origin International]=>[Degree MS], 51.585529254131316
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+[Origin International]=>[University Ranking Tier 16], 50.42429656096472
+
+Number of Association Rules By lift (1.0) : 18
+
+Top 18 association rules By Lift:
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Degree MS]=>[Program CS], 102.73227929757583
+[Program CS]=>[Degree MS], 102.73227929757583
+[Origin International]=>[University Ranking Tier 16], 102.11228270567001
+[University Ranking Tier 16]=>[Origin International], 102.11228270566998
+[Origin International]=>[90%<quant<100%], 100.28791166403306
+[90%<quant<100%]=>[Origin International], 100.28791166403303
+
+******** MinSupport  30.000000000000004%, MinConf 40.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 106
+Frequent itemsets: 27
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 88
+Frequent itemsets: 27
+
+Closed Frequent Itemsets: 27
+Maximal Frequent Itemsets: 18
+
+Number of Association Rules By Confidence (40.0%): 36
+
+Top 30 association rules by Confidence:
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Degree MS]=>[Program CS], 80.80903104421449
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Degree MS]=>[Origin International], 72.43650047036688
+[Decision Rejected]=>[Origin International], 70.59419311276164
+[University Ranking Tier 16]=>[Origin International], 69.00977995110024
+[90%<quant<100%]=>[Origin International], 67.77682892115001
+[Program CS]=>[Origin International], 66.76899462778204
+[Degree PhD]=>[3.6<cgpa<4.0], 65.7218001168907
+[Decision Accepted]=>[Origin International], 65.14737991266377
+[90%<quant<100%]=>[3.6<cgpa<4.0], 64.41787645886706
+[Degree PhD]=>[Origin International], 63.062536528345994
+[3.6<cgpa<4.0]=>[Origin International], 62.110858010630224
+[Decision Accepted]=>[3.6<cgpa<4.0], 61.76310043668122
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[3.6<cgpa<4.0]=>[90%<quant<100%], 57.276638825613766
+[3.6<cgpa<4.0]=>[Decision Accepted], 57.276638825613766
+[3.6<cgpa<4.0]=>[Degree PhD], 56.922298152366494
+[Origin International]=>[3.6<cgpa<4.0], 54.801250558284956
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Origin International]=>[Decision Accepted], 53.30504689593568
+[Origin International]=>[90%<quant<100%], 53.17105850826261
+[Origin International]=>[Degree MS], 51.585529254131316
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+[Origin International]=>[University Ranking Tier 16], 50.42429656096472
+
+Number of Association Rules By lift (1.0) : 18
+
+Top 18 association rules By Lift:
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Degree MS]=>[Program CS], 102.73227929757583
+[Program CS]=>[Degree MS], 102.73227929757583
+[Origin International]=>[University Ranking Tier 16], 102.11228270567001
+[University Ranking Tier 16]=>[Origin International], 102.11228270566998
+[Origin International]=>[90%<quant<100%], 100.28791166403306
+[90%<quant<100%]=>[Origin International], 100.28791166403303
+
+******** MinSupport  30.000000000000004%, MinConf 50.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 106
+Frequent itemsets: 27
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 88
+Frequent itemsets: 27
+
+Closed Frequent Itemsets: 27
+Maximal Frequent Itemsets: 18
+
+Number of Association Rules By Confidence (50.0%): 31
+
+Top 30 association rules by Confidence:
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Degree MS]=>[Program CS], 80.80903104421449
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Degree MS]=>[Origin International], 72.43650047036688
+[Decision Rejected]=>[Origin International], 70.59419311276164
+[University Ranking Tier 16]=>[Origin International], 69.00977995110024
+[90%<quant<100%]=>[Origin International], 67.77682892115001
+[Program CS]=>[Origin International], 66.76899462778204
+[Degree PhD]=>[3.6<cgpa<4.0], 65.7218001168907
+[Decision Accepted]=>[Origin International], 65.14737991266377
+[90%<quant<100%]=>[3.6<cgpa<4.0], 64.41787645886706
+[Degree PhD]=>[Origin International], 63.062536528345994
+[3.6<cgpa<4.0]=>[Origin International], 62.110858010630224
+[Decision Accepted]=>[3.6<cgpa<4.0], 61.76310043668122
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[3.6<cgpa<4.0]=>[90%<quant<100%], 57.276638825613766
+[3.6<cgpa<4.0]=>[Decision Accepted], 57.276638825613766
+[3.6<cgpa<4.0]=>[Degree PhD], 56.922298152366494
+[Origin International]=>[3.6<cgpa<4.0], 54.801250558284956
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Origin International]=>[Decision Accepted], 53.30504689593568
+[Origin International]=>[90%<quant<100%], 53.17105850826261
+[Origin International]=>[Degree MS], 51.585529254131316
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+[Origin International]=>[University Ranking Tier 16], 50.42429656096472
+
+Number of Association Rules By lift (1.0) : 18
+
+Top 18 association rules By Lift:
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Degree MS]=>[Program CS], 102.73227929757583
+[Program CS]=>[Degree MS], 102.73227929757583
+[Origin International]=>[University Ranking Tier 16], 102.11228270567001
+[University Ranking Tier 16]=>[Origin International], 102.11228270566998
+[Origin International]=>[90%<quant<100%], 100.28791166403306
+[90%<quant<100%]=>[Origin International], 100.28791166403303
+
+******** MinSupport  30.000000000000004%, MinConf 60.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 106
+Frequent itemsets: 27
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 88
+Frequent itemsets: 27
+
+Closed Frequent Itemsets: 27
+Maximal Frequent Itemsets: 18
+
+Number of Association Rules By Confidence (60.0%): 19
+
+Top 19 association rules by Confidence:
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Degree MS]=>[Program CS], 80.80903104421449
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Degree MS]=>[Origin International], 72.43650047036688
+[Decision Rejected]=>[Origin International], 70.59419311276164
+[University Ranking Tier 16]=>[Origin International], 69.00977995110024
+[90%<quant<100%]=>[Origin International], 67.77682892115001
+[Program CS]=>[Origin International], 66.76899462778204
+[Degree PhD]=>[3.6<cgpa<4.0], 65.7218001168907
+[Decision Accepted]=>[Origin International], 65.14737991266377
+[90%<quant<100%]=>[3.6<cgpa<4.0], 64.41787645886706
+[Degree PhD]=>[Origin International], 63.062536528345994
+[3.6<cgpa<4.0]=>[Origin International], 62.110858010630224
+[Decision Accepted]=>[3.6<cgpa<4.0], 61.76310043668122
+
+Number of Association Rules By lift (1.0) : 18
+
+Top 18 association rules By Lift:
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Degree MS]=>[Program CS], 102.73227929757583
+[Program CS]=>[Degree MS], 102.73227929757583
+[Origin International]=>[University Ranking Tier 16], 102.11228270567001
+[University Ranking Tier 16]=>[Origin International], 102.11228270566998
+[Origin International]=>[90%<quant<100%], 100.28791166403306
+[90%<quant<100%]=>[Origin International], 100.28791166403303
+
+******** MinSupport  30.000000000000004%, MinConf 70.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 106
+Frequent itemsets: 27
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 88
+Frequent itemsets: 27
+
+Closed Frequent Itemsets: 27
+Maximal Frequent Itemsets: 18
+
+Number of Association Rules By Confidence (70.0%): 10
+
+Top 10 association rules by Confidence:
+[Decision Rejected]=>[Program CS], 81.76907494935854
+[Degree MS]=>[Program CS], 80.80903104421449
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[Degree PhD]=>[Program CS], 76.68030391583869
+[University Ranking Tier 16]=>[Program CS], 76.65036674816625
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Degree MS]=>[Origin International], 72.43650047036688
+[Decision Rejected]=>[Origin International], 70.59419311276164
+
+Number of Association Rules By lift (1.0) : 18
+
+Top 18 association rules By Lift:
+[3.6<cgpa<4.0]=>[Degree PhD], 110.21833651594986
+[Degree PhD]=>[3.6<cgpa<4.0], 110.21833651594983
+[3.6<cgpa<4.0]=>[90%<quant<100%], 108.03159944734327
+[90%<quant<100%]=>[3.6<cgpa<4.0], 108.03159944734324
+[Origin International]=>[Degree MS], 107.18272713636692
+[Degree MS]=>[Origin International], 107.18272713636689
+[Decision Rejected]=>[Origin International], 104.45670468181301
+[Origin International]=>[Decision Rejected], 104.45670468181301
+[Decision Rejected]=>[Program CS], 103.9527802406849
+[Program CS]=>[Decision Rejected], 103.95278024068489
+[3.6<cgpa<4.0]=>[Decision Accepted], 103.57942381509737
+[Decision Accepted]=>[3.6<cgpa<4.0], 103.57942381509737
+[Degree MS]=>[Program CS], 102.73227929757583
+[Program CS]=>[Degree MS], 102.73227929757583
+[Origin International]=>[University Ranking Tier 16], 102.11228270567001
+[University Ranking Tier 16]=>[Origin International], 102.11228270566998
+[Origin International]=>[90%<quant<100%], 100.28791166403306
+[90%<quant<100%]=>[Origin International], 100.28791166403303
+
+**********************************************************************************************
+**********************************************************************************************
+
+******** MinSupport  40.0%, MinConf 30.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 67
+Frequent itemsets: 13
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 48
+Frequent itemsets: 13
+
+Closed Frequent Itemsets: 13
+Maximal Frequent Itemsets: 8
+
+Number of Association Rules By Confidence (30.0%): 8
+
+Top 8 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Program CS]=>[Origin International], 66.76899462778204
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  40.0%, MinConf 40.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 67
+Frequent itemsets: 13
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 48
+Frequent itemsets: 13
+
+Closed Frequent Itemsets: 13
+Maximal Frequent Itemsets: 8
+
+Number of Association Rules By Confidence (40.0%): 8
+
+Top 8 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Program CS]=>[Origin International], 66.76899462778204
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  40.0%, MinConf 50.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 67
+Frequent itemsets: 13
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 48
+Frequent itemsets: 13
+
+Closed Frequent Itemsets: 13
+Maximal Frequent Itemsets: 8
+
+Number of Association Rules By Confidence (50.0%): 8
+
+Top 8 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Program CS]=>[Origin International], 66.76899462778204
+[Program CS]=>[3.6<cgpa<4.0], 58.46124328472755
+[Program CS]=>[Decision Accepted], 53.53031465848043
+[Program CS]=>[90%<quant<100%], 51.47735993860323
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  40.0%, MinConf 60.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 67
+Frequent itemsets: 13
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 48
+Frequent itemsets: 13
+
+Closed Frequent Itemsets: 13
+Maximal Frequent Itemsets: 8
+
+Number of Association Rules By Confidence (60.0%): 5
+
+Top 5 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+[Program CS]=>[Origin International], 66.76899462778204
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  40.0%, MinConf 70.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 67
+Frequent itemsets: 13
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 48
+Frequent itemsets: 13
+
+Closed Frequent Itemsets: 13
+Maximal Frequent Itemsets: 8
+
+Number of Association Rules By Confidence (70.0%): 4
+
+Top 4 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[3.6<cgpa<4.0]=>[Program CS], 77.1197165274614
+[90%<quant<100%]=>[Program CS], 76.37346996868773
+[Decision Accepted]=>[Program CS], 76.14628820960698
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+**********************************************************************************************
+**********************************************************************************************
+
+******** MinSupport  50.0%, MinConf 30.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 25
+Frequent itemsets: 7
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 21
+Frequent itemsets: 7
+
+Closed Frequent Itemsets: 7
+Maximal Frequent Itemsets: 5
+
+Number of Association Rules By Confidence (30.0%): 2
+
+Top 2 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[Program CS]=>[Origin International], 66.76899462778204
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  50.0%, MinConf 40.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 25
+Frequent itemsets: 7
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 21
+Frequent itemsets: 7
+
+Closed Frequent Itemsets: 7
+Maximal Frequent Itemsets: 5
+
+Number of Association Rules By Confidence (40.0%): 2
+
+Top 2 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[Program CS]=>[Origin International], 66.76899462778204
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  50.0%, MinConf 50.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 25
+Frequent itemsets: 7
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 21
+Frequent itemsets: 7
+
+Closed Frequent Itemsets: 7
+Maximal Frequent Itemsets: 5
+
+Number of Association Rules By Confidence (50.0%): 2
+
+Top 2 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[Program CS]=>[Origin International], 66.76899462778204
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  50.0%, MinConf 60.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 25
+Frequent itemsets: 7
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 21
+Frequent itemsets: 7
+
+Closed Frequent Itemsets: 7
+Maximal Frequent Itemsets: 5
+
+Number of Association Rules By Confidence (60.0%): 2
+
+Top 2 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+[Program CS]=>[Origin International], 66.76899462778204
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  50.0%, MinConf 70.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 25
+Frequent itemsets: 7
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 21
+Frequent itemsets: 7
+
+Closed Frequent Itemsets: 7
+Maximal Frequent Itemsets: 5
+
+Number of Association Rules By Confidence (70.0%): 1
+
+Top 1 association rules by Confidence:
+[Origin International]=>[Program CS], 77.71326485037963
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+**********************************************************************************************
+**********************************************************************************************
+
+******** MinSupport  60.0%, MinConf 30.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Closed Frequent Itemsets: 2
+Maximal Frequent Itemsets: 2
+
+Number of Association Rules By Confidence (30.0%): 0
+
+Top 0 association rules by Confidence:
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  60.0%, MinConf 40.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Closed Frequent Itemsets: 2
+Maximal Frequent Itemsets: 2
+
+Number of Association Rules By Confidence (40.0%): 0
+
+Top 0 association rules by Confidence:
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  60.0%, MinConf 50.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Closed Frequent Itemsets: 2
+Maximal Frequent Itemsets: 2
+
+Number of Association Rules By Confidence (50.0%): 0
+
+Top 0 association rules by Confidence:
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  60.0%, MinConf 60.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Closed Frequent Itemsets: 2
+Maximal Frequent Itemsets: 2
+
+Number of Association Rules By Confidence (60.0%): 0
+
+Top 0 association rules by Confidence:
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+******** MinSupport  60.0%, MinConf 70.0% ***********
+Fk-1 x F1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Fk-1 x Fk-1:
+Number of generated candidate itemsets: 3
+Frequent itemsets: 2
+
+Closed Frequent Itemsets: 2
+Maximal Frequent Itemsets: 2
+
+Number of Association Rules By Confidence (70.0%): 0
+
+Top 0 association rules by Confidence:
+
+Number of Association Rules By lift (1.0) : 0
+
+Top 0 association rules By Lift:
+
+**********************************************************************************************
+**********************************************************************************************
+Mapping from Attribute Value to ItemID: 
+{401=80, 402=79, 403=76, 404=74, 405=67, 406=62, 407=36, 408=28, 409=81, 410=77, 411=73, 412=71, 413=66, 414=60, 415=4, 804=49, 805=15, 806=20, 807=35, 808=8, 809=46, 810=30, 301=12, 302=61, 303=65, 304=64, 305=3, 701=78, 702=75, 703=63, 704=56, 705=25, 706=58, 707=33, 708=27, 709=7, 710=14, 201=2, 202=23, 203=38, 204=52, 1101=10, 205=41, 1102=17, 601=68, 602=43, 603=39, 604=13, 605=26, 606=37, 607=19, 608=45, 609=6, 610=50, 101=47, 102=44, 103=22, 104=54, 1001=9, 105=11, 1002=16, 106=42, 107=21, 1003=40, 108=1, 1004=31, 109=55, 110=48, 111=51, 112=53, 113=69, 114=57, 115=59, 116=18, 503=72, 505=34, 506=70, 507=32, 508=24, 509=5, 510=29}
